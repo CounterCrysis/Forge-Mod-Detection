@@ -1,0 +1,6 @@
+name: ForgeModDetector
+author: CounterCrysis
+version: 0.0.1
+main: me.countercrysis.forgemoddetector.ForgeModDetector
+description: This project is an experiment to detect Forge mods when a player joins.
+api-version: 1.14
